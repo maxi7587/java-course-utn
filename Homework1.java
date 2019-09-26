@@ -19,8 +19,7 @@ class Homework1 {
         int sqaure_root_int = (int) sqaure_root_458;
         System.out.println("Square root of 548 truncated: " + sqaure_root_int);
     }
-
-
+    
     public static void exercise_2_2() {
         System.out.println("Exercise 2 (2):\n");
 
