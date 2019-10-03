@@ -2,7 +2,7 @@ import java.lang.Math;
 import java.util.Scanner;
 
 class Homework2 {
-
+    // En lugar de comentarios, usé los sysout como guía (de paso sirven para cuendo ejecuto el programa)
     public static void exercise1() {
         System.out.println("Dada la frase: \"Hemos cosechado el doble de duraznos que el año anterior\"");
         String phrase = "Hemos cosechado el doble de duraznos que el año anterior";
