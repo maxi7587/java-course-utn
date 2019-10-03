@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90de8128-cb98-48fe-a250-531020e06650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/String/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/String/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/src/App.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state>
+              <caret selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,7 +61,37 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="481" column="25" lean-forward="true" selection-start-line="481" selection-start-column="25" selection-end-line="481" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/src/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>len</find>
+      <find>sqrt</find>
+      <find>pow</find>
+      <find>//</find>
+      <find>Imprimirá</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +104,8 @@
         <option value="$PROJECT_DIR$/SecondExample.java" />
         <option value="$PROJECT_DIR$/homework_1.java" />
         <option value="$PROJECT_DIR$/Homework1.java" />
+        <option value="$PROJECT_DIR$/Homwwork2.java" />
+        <option value="$PROJECT_DIR$/Homework2.java" />
       </list>
     </option>
   </component>
@@ -99,6 +128,17 @@
               <item name="JAVA Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA Course" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JAVA Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA Course" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA Course" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -108,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569471589741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570069541542" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -141,8 +181,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="738" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.25757575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.26136363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -201,10 +242,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/String/src/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="481" column="25" lean-forward="true" selection-start-line="481" selection-start-column="25" selection-end-line="481" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
