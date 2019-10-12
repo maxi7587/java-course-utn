@@ -210,7 +210,7 @@ public class Main {
         final Float[] sum = { new Float(0) };
         List<Float> numbers_list = new ArrayList<Float>();
 
-        // @note podría haberlo hecho en un solo bucle, pero el ejercicio decía hacerlo en 2
+        // @note podría haberlo hecho en un solo bucle, pero el ejercicio decía hacerlo en 2 partes...
         for (int index = 0; index < 10; index++) {
             numbers_list.add(input.nextFloat());
         }
@@ -220,7 +220,7 @@ public class Main {
             sum[0] += n;
         });
 
-        System.out.printf("La suma de los número elegidos es %s%n", sum[0].toString());
+        System.out.printf("La suma de los números elegidos es " + sum[0]);
     }
 
     /**
@@ -353,30 +353,50 @@ public class Main {
             }
         }
 
+        System.out.println("Dada la siguiente matriz:");
+        System.out.println(matrix.toString());
         System.out.println("La suma de todos los elementos que no pertenecen a la diagonal principal de la matriz es " + sum);
     }
 
     public static void main(String[] args) {
+        System.out.println("Ejercicio 1\n");
         exercise1();
+        System.out.println("Ejercicio 2\n");
         exercise2();
+        System.out.println("Ejercicio 3\n");
+        exercise3();
+        System.out.println("Ejercicio 4\n");
         exercise4();
+        System.out.println("Ejercicio 5\n");
         exercise5();
+        System.out.println("Ejercicio 6\n");
         exercise6();
+        System.out.println("Ejercicio 7\n");
         exercise7();
+        System.out.println("Ejercicio 8\n");
         exercise8();
+        System.out.println("Ejercicio 9\n");
         exercise9();
+        System.out.println("Ejercicio 10\n");
         exercise10();
+        System.out.println("Ejercicio 11\n");
         exercise11();
+        System.out.println("Ejercicio 12\n");
         exercise12();
+        System.out.println("Ejercicio 13\n");
         exercise13();
+        System.out.println("Ejercicio 14\n");
         exercise14();
+        System.out.println("Ejercicio 15\n");
         exercise15();
+        System.out.println("Ejercicio 16\n");
         List<Integer> integers_list = new ArrayList();
         Random rand_number = new Random();
         for (int index = 0; index < 20; index++) {
             integers_list.add(new Integer(rand_number.nextInt(2)));
         }
         exercise16(integers_list);
+        System.out.println("Ejercicio 17\n");
         exercise17();
     }
 }
