@@ -342,7 +342,7 @@ public class Main {
      * principal.
      */
     public static void exercise17() {
-        int[][] matrix = {{4, 7, -5, 4, 9}, {0, 3, -2, 6, -2}, {1, 2, 4, 1, 1}, {6, 1, 0, 3, -4}};
+        int[][] matrix = {{4, 7, -5, 4}, {0, 3, -2, 6}, {1, 2, 4, 1}, {6, 1, 0, 3}};
         int sum = 0;
 
         for (int index = 0; index < 4; index ++) {
